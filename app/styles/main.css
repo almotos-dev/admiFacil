@@ -17,6 +17,12 @@ body {
   padding-right: 15px;
 }
 
+/* nav container */
+.nav-container{
+  max-width: 95%;
+  margin: 0 auto;
+}
+
 /* Custom page header */
 .header {
   border-bottom: 1px solid #e5e5e5;
@@ -57,6 +63,12 @@ body {
 }
 .marketing p + h4 {
   margin-top: 28px;
+}
+
+/*customized styles*/
+/*colors*/
+.white{
+  color: #fff !important;
 }
 
 /* Responsive: Portrait tablets and up */
